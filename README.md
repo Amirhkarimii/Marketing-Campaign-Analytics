@@ -22,5 +22,6 @@ The dashboard provides a visual overview of campaign performance and highlights 
 - ### Project Objective
 The objective of this project is to analyze campaign-level data, calculate relevant marketing KPIs, and create an interactive dashboard that supports performance analysis and comparison.
    ### Files
-- Marketing_Campaign_Analytics.xlsx — Excel project file
-- Campaign_Performance_Dashboard.pdf — Dashboard preview
+- Excel_Dashboard.xlsx — Excel dashboard
+- Dashboard_Image.png — Dashboard preview
+- Data.xlsx-Raw campaign data
